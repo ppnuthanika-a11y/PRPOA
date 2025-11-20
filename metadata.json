@@ -1,0 +1,5 @@
+{
+  "name": "ProcureFlow AI",
+  "description": "A smart procurement system for managing Purchase Requests (PR) to Purchase Orders (PO) with multi-level approval workflows, PDF generation, and Excel reporting.",
+  "requestFramePermissions": []
+}
